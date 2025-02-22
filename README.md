@@ -1,1 +1,1 @@
-# Financial-Consumer-Complaints-Analysis
+This project showcases a customer complaint analysis dashboard for the Bank of America. It provides comprehensive insights into complaint statistics, thereby assisting the bank in improving its customer service and product quality. The dashboard is designed to provide quick and clear insights to stakeholders on areas that need immediate attention and the improvement measures they need to take. The goal is to reduce the number of complaints and increase customer satisfaction.
